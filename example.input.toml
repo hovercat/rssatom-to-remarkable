@@ -1,0 +1,14 @@
+[orf]
+orf_news = "https://rss.orf.at/news.xml"
+
+[it-news]
+ars_technica = "http://feeds.arstechnica.com/arstechnica/index/"
+lwn = "https://lwn.net/headlines/newrss"          # kernel/Linux, unusually deep
+lobsters = "https://lobste.rs/rss"                # smaller, less noisy than HN
+changelog = "https://changelog.com/feed"
+
+[it-news.hackernews]
+main = "https://news.ycombinator.com/rss"
+best = "https://hnrss.org/best"
+top100 = "https://hnrss.org/frontpage?points=100" # threshold filter
+daily_top10 = "https://www.daemonology.net/hn-daily/index.rss"

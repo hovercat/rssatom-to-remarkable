@@ -1,0 +1,7 @@
+feedparser
+requests
+readability-lxml
+lxml[html_clean]
+weasyprint
+qrcode[pil]
+pymupdf
