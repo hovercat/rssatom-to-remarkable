@@ -9,7 +9,7 @@ Let it run using cron to update daily.
 
 ### rMAPI
 
-You need to install rmapi on your device to authenticate with the ReMarkable cloud (or a fake cloud if you have one):
+You need to install rmapi to authenticate with the ReMarkable cloud (or a fake cloud if you have one):
 
 https://github.com/ddvk/rmapi
 
